@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0102010
 - 👀 I’m interested in creating webpages and games
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on PYTHON and JV
+- 🌱 I’m currently learning Full-Stack
+- 💞️ I’m looking to collaborate on PYTHON and JS
 - 📫 How to reach me sulaiman.rasooli09@gmail.com
 
 <!---
